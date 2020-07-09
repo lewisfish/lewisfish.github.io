@@ -1,4 +1,4 @@
-Sitemap: http://lewismcmillan.com/sitemapindex.xml
+Sitemap: https://lewismcmillan.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: lewismcmillan.com
+Host: lewismcmillan.github.io
